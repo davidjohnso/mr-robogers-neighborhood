@@ -7,3 +7,10 @@ body {
   max-height: 100%;
   display: flex;
 }
+
+.header {
+  text-align: center;
+  font-family: 'Coda Caption', sans-serif;
+  font-weight: 800;
+
+}
